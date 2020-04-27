@@ -6,7 +6,7 @@
             padding: 25px 0;
         }
     }
-    &__logo {
+    &__logo-1 {
         @include respond-below(sm) {
             display: none;
         }
